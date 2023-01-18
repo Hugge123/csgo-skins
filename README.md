@@ -1,5 +1,5 @@
 # csgo-skins
-An api with all csgo skins and cases
+An api with all csgo skins, inspect links and cases
 
 
 ## End Points
