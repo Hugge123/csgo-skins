@@ -1,4 +1,4 @@
-# csgo-items
+# csgo-skins
 An api with all csgo skins and cases
 
 
